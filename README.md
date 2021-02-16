@@ -5,6 +5,7 @@ Analysis risk of death in liver diseases
 
 
 To run the program use following commands:
+
 load_ext rpy2.ipython
 
 R require(ggplot2)
